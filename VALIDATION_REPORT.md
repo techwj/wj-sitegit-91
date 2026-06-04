@@ -1,0 +1,88 @@
+# Validation Report - pet-toy-recommendations
+
+Generated: 2026-06-04T11:36:28.164777
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Pet Toy Recommendations
+- ✓ Article word count OK: Beginner Pet Toy Recommendations: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Pet Toy Recommendations
+- ✓ Article word count OK: Beginner Pet Toy Recommendations Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Pet Toy Recommendations
+- ✓ Article word count OK: Beginner Pet Toy Recommendations in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Pet Toy Recommendations
+- ✓ Article word count OK: Common Mistakes in Beginner Pet Toy Recommendations
+- ✓ Article word count OK: Beginner Pet Toy Recommendations for Beginners
+- ✓ Article word count OK: Advanced Beginner Pet Toy Recommendations Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Pet Toy Recommendations
+- ✓ Article word count OK: Advanced Pet Toy Recommendations: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Pet Toy Recommendations
+- ✓ Article word count OK: Advanced Pet Toy Recommendations Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Pet Toy Recommendations
+- ✓ Article word count OK: Advanced Pet Toy Recommendations in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Pet Toy Recommendations
+- ✓ Article word count OK: Common Mistakes in Advanced Pet Toy Recommendations
+- ✓ Article word count OK: Advanced Pet Toy Recommendations for Beginners
+- ✓ Article word count OK: Advanced Advanced Pet Toy Recommendations Techniques
+- ✓ Article word count OK: The Ultimate Guide to Pet Toy Recommendations Tips
+- ✓ Article word count OK: Pet Toy Recommendations Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Pet Toy Recommendations Tips
+- ✓ Article word count OK: Pet Toy Recommendations Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Pet Toy Recommendations Tips
+- ✓ Article word count OK: Pet Toy Recommendations Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Pet Toy Recommendations Tips
+- ✓ Article word count OK: Common Mistakes in Pet Toy Recommendations Tips
+- ✓ Article word count OK: Pet Toy Recommendations Tips for Beginners
+- ✓ Article word count OK: Advanced Pet Toy Recommendations Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Pet Toy Recommendations History
+- ✓ Article word count OK: Pet Toy Recommendations History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Pet Toy Recommendations History
+- ✓ Article word count OK: Pet Toy Recommendations History Tips and Best Practices
+- ✓ Article word count OK: The History of Pet Toy Recommendations History
+- ✓ Article word count OK: Pet Toy Recommendations History in 2026: Current Trends
+- ✓ Article word count OK: Future of Pet Toy Recommendations History
+- ✓ Article word count OK: Common Mistakes in Pet Toy Recommendations History
+- ✓ Article word count OK: Pet Toy Recommendations History for Beginners
+- ✓ Article word count OK: Advanced Pet Toy Recommendations History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Pet Toy Recommendations
+- ✓ Article word count OK: Trending Pet Toy Recommendations: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Pet Toy Recommendations
+- ✓ Article word count OK: Trending Pet Toy Recommendations Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Pet Toy Recommendations
+- ✓ Article word count OK: Trending Pet Toy Recommendations in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Pet Toy Recommendations
+- ✓ Article word count OK: Common Mistakes in Trending Pet Toy Recommendations
+- ✓ Article word count OK: Trending Pet Toy Recommendations for Beginners
+- ✓ Article word count OK: Advanced Trending Pet Toy Recommendations Techniques
+- ✓ Article word count OK: The Ultimate Guide to Pet Toy Recommendations Tutorials
+- ✓ Article word count OK: Pet Toy Recommendations Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Pet Toy Recommendations Tutorials
+- ✓ Article word count OK: Pet Toy Recommendations Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Pet Toy Recommendations Tutorials
+- ✓ Article word count OK: Pet Toy Recommendations Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Pet Toy Recommendations Tutorials
+- ✓ Article word count OK: Common Mistakes in Pet Toy Recommendations Tutorials
+- ✓ Article word count OK: Pet Toy Recommendations Tutorials for Beginners
+- ✓ Article word count OK: Advanced Pet Toy Recommendations Tutorials Techniques
+- ✓ Ad configuration validated

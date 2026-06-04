@@ -1,0 +1,59 @@
+{
+  "siteId": "pet-toy-recommendations",
+  "generatedAt": "2026-06-04T11:36:28.164941",
+  "categories": [
+    "beginner-pet-toy-recommendations",
+    "advanced-pet-toy-recommendations",
+    "tips-pet-toy-recommendations",
+    "history-pet-toy-recommendations",
+    "trending-pet-toy-recommendations",
+    "tutorials-pet-toy-recommendations"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-pet-toy-recommendations",
+      "category_name": "Beginner Pet Toy Recommendations"
+    },
+    {
+      "category_slug": "advanced-pet-toy-recommendations",
+      "category_name": "Advanced Pet Toy Recommendations"
+    },
+    {
+      "category_slug": "tips-pet-toy-recommendations",
+      "category_name": "Pet Toy Recommendations Tips"
+    },
+    {
+      "category_slug": "history-pet-toy-recommendations",
+      "category_name": "Pet Toy Recommendations History"
+    },
+    {
+      "category_slug": "trending-pet-toy-recommendations",
+      "category_name": "Trending Pet Toy Recommendations"
+    },
+    {
+      "category_slug": "tutorials-pet-toy-recommendations",
+      "category_name": "Pet Toy Recommendations Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "pet-toy-recommendations",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered",
+    "site_title": "Pet Toy Recommendations Central",
+    "articles_per_row": 3
+  }
+}
